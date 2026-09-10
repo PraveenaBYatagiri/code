@@ -1,3 +1,4 @@
+// Expected output: abccdbccdbccdbccdbccd
 #include <simplecpp>
 main_program{
  turtleSim();
