@@ -1,6 +1,6 @@
 #include <simplecpp>
 main_program{
- turtleSim();
+ turtleSim();//Draw outer square length of side 100
  repeat(4){
   forward(100);right(90);
   wait(5);}
